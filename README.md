@@ -1,3 +1,6 @@
+<h1 align="center">Hi 👋, I'm HAMZA BOUFOS</h1>
+<h3 align="center">A passionate software developer from Morocco 🇲🇦</h3>
+
 - 👋 Hi, I’m @hamzaBOUFOUS
 - 👀 I’m interested in  Developpment
 - 🌱 I’m currently learning ...
